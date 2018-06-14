@@ -3,5 +3,5 @@ BEGIN
  dbms_output.put_line('Testing ACADEMIA CODIGO LIBRE');
 END SP_TEST_GIT;
 
-SELECT * FROM DUAL;
+
 
